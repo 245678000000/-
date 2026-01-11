@@ -1,0 +1,5 @@
+{
+  "name": "怀了吗 (Huai Le Ma)",
+  "description": "A relationship consistency tracker. Daily check-ins required. If you miss a day, your emergency contact gets a notification.",
+  "requestFramePermissions": []
+}
